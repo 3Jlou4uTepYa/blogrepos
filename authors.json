@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "63f5bef4e0876113ad7f6041"
+  },
+  "firstName": "Vladislav",
+  "lastName": "Bardin",
+  "email": "bardin_vlad@rambler.ru"
+},{
+  "_id": {
+    "$oid": "63f5bef4e0876113ad7f6042"
+  },
+  "firstName": "Roman",
+  "lastName": "Podkovirov",
+  "email": "info is not found"
+}]
